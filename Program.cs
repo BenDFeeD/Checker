@@ -6,7 +6,7 @@ class Checker
 {
     static void Main()
     {
-        string Path = @"D:\Загрузки\setup\SDA-1.0.10\Steam Desktop Authenticator.exe"; // Указать путь к программе
+        string Path = @"D:\Загрузки\setup\SDA-1.0.10\Steam Desktop Authenticator.exe"; // Путь к программе
 
         while (true)
         {
